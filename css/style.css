@@ -9,6 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    padding: 50px 0;
 	font-family: "Montserrat", sans-serif;
     background-color: rgb(233, 233, 233);
 }
